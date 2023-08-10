@@ -11,7 +11,13 @@
 
   Name:       Maksym Volkovynskyi
   Student ID: 126867225
-  Date:       2023/07/28
+  Date:       2023/08/09
+
+  Published Site: https://hoptunes.netlify.app
+
+  !!! NOTE: Clicking a Song Card will open the Edit Song Modal.
+  !!!       To close the Edit Song Modal, just click outside of it.
+  !!!       To see the quote for a song, hover over it.
  
 ********* */
 
